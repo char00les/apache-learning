@@ -36,5 +36,8 @@ ls -al /etc/httpd/
 ls -al /etc/httpd/httpd.conf
 
 
+#the default local for files
+ls -al /var/www/html
+
 
 
